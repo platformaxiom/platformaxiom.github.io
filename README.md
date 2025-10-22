@@ -1,4 +1,4 @@
-# platformaxiom.github.io
+# Axiom
 
 Sentry by Axiom
 
